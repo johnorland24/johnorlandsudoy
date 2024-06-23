@@ -287,7 +287,7 @@ text-align: center;
   display: inline-block;
   width: 15rem;
 }
-.btn-box.btns a::before{
+.btn-box.btns a:hover:before{
   background: var(--second-bg-color);
 }
 
